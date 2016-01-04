@@ -1,8 +1,3 @@
----
-title: about
-date: 2016-01-04 12:47:52
----
-
 
 ![](http://7xpqdb.com1.z0.glb.clouddn.com/astonep030.png)
 
